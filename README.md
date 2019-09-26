@@ -8,6 +8,6 @@ The firmware is written in Arduino C++. When you connect the Board to the USB po
 Installed from the firmware receives data from the server, giving them a com port badusb, contains a string with the name of the desired function.
 
 # Control panel
-The control panel is written by Python 3, runs on all platforms. It has its own "terminal", commands 'help', 'exit', and other commands coincide with the names of functions.
+The control panel is written by Python 3, runs on all platforms. It has its own "terminal", commands 'help', 'exit', and other commands coincide with the names of functions. Server setup and the authentication password in the file config.py
 
 ![alt-text](https://sun9-53.userapi.com/c858336/v858336843/88953/JFnCxFOQGPE.jpg)
