@@ -39,7 +39,7 @@ def getCommand(command):
     getCommand(readInput())
 
 def readInput():
-    return input(color.g + "moino> ")
+    return input(color.g + "moino" + color.w + "> ")
 
 try:
     main()
