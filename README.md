@@ -1,0 +1,2 @@
+# moino
+Managed BadUSB software
