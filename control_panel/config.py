@@ -2,5 +2,5 @@
 CONFIG FILE
 """
 
-SERVER = "https://overnull.ru/moino_server"
-PASSWORD = "GjszhdhsgHGCauofsig1812"
+SERVER = "https://example.com/moino"
+PASSWORD = "password"
